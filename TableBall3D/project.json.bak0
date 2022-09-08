@@ -1,0 +1,17 @@
+{
+    "project_name": "TabletBall",
+    "origin": "The primary repo for TabletBall goes here: i.e. http://www.mydomain.com",
+    "license": "What license TabletBall uses goes here: i.e. https://opensource.org/licenses/MIT",
+    "display_name": "TabletBall",
+    "summary": "A short description of TabletBall.",
+    "canonical_tags": [
+        "Project"
+    ],
+    "user_tags": [
+        "TabletBall"
+    ],
+    "icon_path": "preview.png",
+    "engine": "o3de-sdk",
+    "external_subdirectories": [],
+    "project_id": "{f17ad87f-95b6-48b1-b8ca-b356ebb43510}"
+}

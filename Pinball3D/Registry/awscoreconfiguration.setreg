@@ -1,0 +1,10 @@
+{
+    "H3DEngine": 
+    {
+        "AWSCore": 
+        {
+            "ProfileName": "default",
+            "ResourceMappingConfigFileName": "default_aws_resource_mappings.json"
+        }
+    } 
+}

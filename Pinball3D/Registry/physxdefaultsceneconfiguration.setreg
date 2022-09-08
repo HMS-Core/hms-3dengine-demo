@@ -1,0 +1,9 @@
+{
+    "H3DEngine": {
+        "Gems": {
+            "PhysX": {
+                "DefaultSceneConfiguration": {}
+            }
+        }
+    }
+}

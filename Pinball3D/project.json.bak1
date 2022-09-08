@@ -1,0 +1,16 @@
+{
+    "project_name": "Ballgame",
+    "origin": "The primary repo for Ballgame goes here: i.e. http://www.mydomain.com",
+    "license": "What license Ballgame uses goes here: i.e. https://opensource.org/licenses/MIT",
+    "display_name": "Ballgame",
+    "summary": "A short description of Ballgame.",
+    "canonical_tags": [
+        "Project"
+    ],
+    "user_tags": [
+        "Ballgame"
+    ],
+    "icon_path": "preview.png",
+    "engine": "20210110",
+    "external_subdirectories": []
+}

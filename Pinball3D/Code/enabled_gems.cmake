@@ -1,0 +1,23 @@
+
+set(ENABLED_GEMS
+    Ballgame
+    Atom
+    AudioSystem
+    CameraFramework
+    DebugDraw
+    EditorPythonBindings
+    EMotionFX
+    GameState
+    ImGui
+    LandscapeCanvas
+    LyShine
+    Multiplayer
+    PhysX
+    PrimitiveAssets
+    SaveData
+    ScriptCanvasPhysics
+    ScriptEvents
+    StartingPointInput
+    TextureAtlas
+    PnxParticle
+)

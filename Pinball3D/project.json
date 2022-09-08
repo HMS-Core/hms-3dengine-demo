@@ -1,0 +1,17 @@
+{
+    "project_name": "Ballgame",
+    "origin": "The primary repo for Ballgame goes here: i.e. http://www.mydomain.com",
+    "license": "What license Ballgame uses goes here: i.e. https://opensource.org/licenses/MIT",
+    "display_name": "Pinball3D",
+    "summary": "A short description of Ballgame.",
+    "canonical_tags": [
+        "Project"
+    ],
+    "user_tags": [
+        "Ballgame"
+    ],
+    "icon_path": "preview.png",
+    "engine": "H3DEngine-1.1.0.100",
+    "external_subdirectories": [],
+    "project_id": "{ecabd8c3-34d4-474f-b9f4-7e74de87bdec}"
+}
